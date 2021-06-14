@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @migdio
 - 👀 I’m interested in ML/AI
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on ML/AI on Fraud Prevention
+- 💞️ I’m looking to collaborate on ML/AI for Fraud Prevention
 - 📫 How to reach me migdio@gmail.com
 
 <!---
